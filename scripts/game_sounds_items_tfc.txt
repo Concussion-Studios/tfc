@@ -1,0 +1,10 @@
+// TFC Item Lines
+
+"Armor.Touch"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"0.85"
+	"soundlevel"  "SNDLVL_75dB"
+
+	"wave"	"items/armoron_1.wav"
+}
